@@ -1,0 +1,51 @@
+{
+    "messages": {
+        "pre": "This message is displayed before first open.",
+        "inter": "This message is displayed between active days, if we ran on multiple days.",
+        "post": "This message is displayed after final close."
+    },
+    "displayActive": [
+        {
+            "start": 1736942400,
+            "finish": 1736960400
+        }
+    ],
+    "performers": [
+        {
+            "name": "DJ DragonButt",
+            "startTime": 1736946000,
+            "logoId": 1,
+            "genre": "Weird Jazz",
+            "VJ": "Max Featherhead",
+            "LD": "Someone Else",
+            "FX": "Explode!"
+        },
+        {
+            "name": "Flippy-Flap-Flap McLooonnnnngName",
+            "startTime": 1736949600,
+            "logoId": 2,
+            "genre": "Extended Tunes",
+            "VJ": "Some dude",
+            "LD": "Ow my eyes",
+            "FX": "MOAR Explode!"
+        },
+        {
+            "name": "Reptile Guy",
+            "startTime": 1736956800,
+            "logoId": 3,
+            "genre": "Legally Distinct Scalie Bloke",
+            "VJ": "Rotate 180 degrees before playback",
+            "LD": "Eaten",
+            "FX": "Too much explode"
+        },
+        {
+            "name": "Close",
+            "startTime": 1736959500,
+            "logoId": 0,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        }
+    ]
+}
