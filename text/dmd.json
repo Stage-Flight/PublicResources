@@ -6,14 +6,14 @@
     },
     "displayActive": [
         {
-            "start": 1738036202,
-            "finish": 1738037700
+            "start": 1738038522,
+            "finish": 1738106922
         }
     ],
     "performers": [
         {
-            "name": "DJ DragonButt",
-            "startTime": 1738035300,
+            "name": "Test Entry 1",
+            "startTime": 1738098000,
             "setLength": 5,
             "logoId": 1,
             "genre": "Weird Jazz",
@@ -22,8 +22,8 @@
             "FX": "Explode!"
         },
         {
-            "name": "Flippy-Flap-Flap McLooonnnnngName",
-            "startTime": 1738035600,
+            "name": "Test Entry 2 McLooonnnnngName",
+            "startTime": 1738098600,
             "setLength": 5,
             "logoId": 2,
             "genre": "Extended Tunes",
@@ -32,18 +32,58 @@
             "FX": "MOAR Explode!"
         },
         {
-            "name": "Reptile Guy",
-            "startTime": 1738036203,
+            "name": "Test Entry 3",
+            "startTime": 1738098908,
             "setLength": 15,
             "logoId": 3,
-            "genre": "Legally Distinct Scalie Bloke",
+            "genre": "Whatever",
+            "VJ": "Rotate 180 degrees before playback",
+            "LD": "Eaten",
+            "FX": "Too much explode"
+        },
+        {
+            "name": "Test Entry 4",
+            "startTime": 1738099208,
+            "setLength": 5,
+            "logoId": 1,
+            "genre": "Weird Jazz",
+            "VJ": "Max Featherhead",
+            "LD": "Someone Else",
+            "FX": "Explode!"
+        },
+        {
+            "name": "Test Entry 5",
+            "startTime": 1738099508,
+            "setLength": 5,
+            "logoId": 2,
+            "genre": "Extended Tunes",
+            "VJ": "Some dude",
+            "LD": "Ow my eyes",
+            "FX": "MOAR Explode!"
+        },
+        {
+            "name": "Test Entry 6",
+            "startTime": 1738099808,
+            "setLength": 15,
+            "logoId": 3,
+            "genre": "Whatever",
+            "VJ": "Rotate 180 degrees before playback",
+            "LD": "Eaten",
+            "FX": "Too much explode"
+        },
+        {
+            "name": "Test Entry 7",
+            "startTime": 1738100108,
+            "setLength": 5,
+            "logoId": 3,
+            "genre": "Whatever",
             "VJ": "Rotate 180 degrees before playback",
             "LD": "Eaten",
             "FX": "Too much explode"
         },
         {
             "name": "Close",
-            "startTime": 1738037400,
+            "startTime": 1738100408,
             "setLength": 5,
             "logoId": -1,
             "genre": "",
