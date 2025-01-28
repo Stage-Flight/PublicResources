@@ -1,13 +1,13 @@
 {
     "messages": {
-        "pre": "Welcome! The event will start at:",
+        "pre": "Welcome! The event will start at: ",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "This message is displayed after final close."
     },
     "displayActive": [
         {
-            "start": 1738035240,
-            "finish": 1738036560
+            "start": 1738036202,
+            "finish": 1738037700
         }
     ],
     "performers": [
@@ -33,8 +33,8 @@
         },
         {
             "name": "Reptile Guy",
-            "startTime": 1738035900,
-            "setLength": 5,
+            "startTime": 1738036203,
+            "setLength": 15,
             "logoId": 3,
             "genre": "Legally Distinct Scalie Bloke",
             "VJ": "Rotate 180 degrees before playback",
@@ -43,7 +43,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1738036200,
+            "startTime": 1738037400,
             "setLength": 5,
             "logoId": -1,
             "genre": "",
