@@ -6,15 +6,15 @@
     },
     "displayActive": [
         {
-            "start": 1736942400,
-            "finish": 1736960400
+            "start": 1738028700,
+            "finish": 1738029420
         }
     ],
     "performers": [
         {
             "name": "DJ DragonButt",
-            "startTime": 1736946000,
-            "setLength": 60,
+            "startTime": 1738028760,
+            "setLength": 2,
             "logoId": 1,
             "genre": "Weird Jazz",
             "VJ": "Max Featherhead",
@@ -23,8 +23,8 @@
         },
         {
             "name": "Flippy-Flap-Flap McLooonnnnngName",
-            "startTime": 1736949600,
-            "setLength": 60,
+            "startTime": 1738028940,
+            "setLength": 3,
             "logoId": 2,
             "genre": "Extended Tunes",
             "VJ": "Some dude",
@@ -33,8 +33,8 @@
         },
         {
             "name": "Reptile Guy",
-            "startTime": 1736956800,
-            "setLength": 60,
+            "startTime": 1738029180,
+            "setLength": 1,
             "logoId": 3,
             "genre": "Legally Distinct Scalie Bloke",
             "VJ": "Rotate 180 degrees before playback",
@@ -43,8 +43,8 @@
         },
         {
             "name": "Close",
-            "startTime": 1736959500,
-            "setLength": 15,
+            "startTime": 1738029300,
+            "setLength": 5,
             "logoId": -1,
             "genre": "",
             "VJ": "",
