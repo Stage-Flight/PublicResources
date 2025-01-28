@@ -1,19 +1,19 @@
 {
     "messages": {
-        "pre": "This message is displayed before first open.",
+        "pre": "Welcome! The event will start at:",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "This message is displayed after final close."
     },
     "displayActive": [
         {
-            "start": 1738031760,
-            "finish": 1738032900
+            "start": 1738033800,
+            "finish": 1738035060
         }
     ],
     "performers": [
         {
             "name": "DJ DragonButt",
-            "startTime": 1738031820,
+            "startTime": 1738033800,
             "setLength": 5,
             "logoId": 1,
             "genre": "Weird Jazz",
@@ -23,7 +23,7 @@
         },
         {
             "name": "Flippy-Flap-Flap McLooonnnnngName",
-            "startTime": 1738032120,
+            "startTime": 1738034100,
             "setLength": 5,
             "logoId": 2,
             "genre": "Extended Tunes",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Reptile Guy",
-            "startTime": 1738032420,
+            "startTime": 1738034400,
             "setLength": 5,
             "logoId": 3,
             "genre": "Legally Distinct Scalie Bloke",
@@ -43,7 +43,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1738032720,
+            "startTime": 1738034700,
             "setLength": 5,
             "logoId": -1,
             "genre": "",
