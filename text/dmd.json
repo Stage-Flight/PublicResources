@@ -1,100 +1,100 @@
 {
     "messages": {
-        "pre": "Welcome! The event will start at: ",
+        "pre": "Welcome! The event will begin at: ",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "This message is displayed after final close."
+        "post": "Our event is now over, see you next time! Fly safe!"
     },
     "displayActive": [
         {
-            "start": 1738038522,
-            "finish": 1738106922
+            "start": 1738169161,
+            "finish": 1738466760
         }
     ],
     "performers": [
         {
-            "name": "Test Entry 1",
-            "startTime": 1738098000,
-            "setLength": 5,
+            "name": "Strawbs",
+            "startTime": 1738438200,
+            "setLength": 90,
             "logoId": 0,
-            "genre": "Weird Jazz",
-            "VJ": "Max Featherhead",
-            "LD": "Someone Else",
-            "FX": "Explode!"
+            "genre": "Tulum & Techno Vibes",
+            "VJ": "Strawbs",
+            "LD": "",
+            "FX": "Micca"
         },
         {
-            "name": "Test Entry 2 McLooonnnnngName",
-            "startTime": 1738098600,
-            "setLength": 5,
+            "name": "Kima & Cynra",
+            "startTime": 1738443600,
+            "setLength": 60,
             "logoId": 1,
-            "genre": "Extended Tunes",
-            "VJ": "Some dude",
-            "LD": "Ow my eyes",
-            "FX": "MOAR Explode!"
+            "genre": "Trance & Melodic Trance",
+            "VJ": "Micca",
+            "LD": "Micca",
+            "FX": "Micca"
         },
         {
-            "name": "Test Entry 3",
-            "startTime": 1738098908,
-            "setLength": 15,
+            "name": "Value Factory",
+            "startTime": 1738447200,
+            "setLength": 60,
             "logoId": 2,
-            "genre": "Whatever",
-            "VJ": "Rotate 180 degrees before playback",
-            "LD": "Eaten",
-            "FX": "Too much explode"
+            "genre": "Drum & Plants",
+            "VJ": "Value Factory",
+            "LD": "",
+            "FX": "Micca"
         },
         {
-            "name": "Test Entry 4",
-            "startTime": 1738099208,
-            "setLength": 5,
+            "name": "DJ Goofy",
+            "startTime": 1738450800,
+            "setLength": 60,
             "logoId": 3,
-            "genre": "Weird Jazz",
-            "VJ": "Max Featherhead",
-            "LD": "Someone Else",
-            "FX": "Explode!"
+            "genre": "Festival EDM, Pop & Techno",
+            "VJ": "Value Factory",
+            "LD": "Goofy",
+            "FX": "Value Factory"
         },
         {
-            "name": "Test Entry 5",
-            "startTime": 1738099508,
-            "setLength": 5,
+            "name": "DJ Tsrian",
+            "startTime": 1738454400,
+            "setLength": 60,
             "logoId": 4,
-            "genre": "Extended Tunes",
-            "VJ": "Some dude",
-            "LD": "Ow my eyes",
-            "FX": "MOAR Explode!"
+            "genre": "Liquid Drum & Bass",
+            "VJ": "DJ Tsrian",
+            "LD": "",
+            "FX": "Micca"
         },
         {
-            "name": "Test Entry 6",
-            "startTime": 1738099808,
-            "setLength": 15,
+            "name": "Ashtalon",
+            "startTime": 1738458000,
+            "setLength": 60,
             "logoId": 5,
-            "genre": "Whatever",
-            "VJ": "Rotate 180 degrees before playback",
-            "LD": "Eaten",
-            "FX": "Too much explode"
+            "genre": "Dubstep & Colour",
+            "VJ": "Pammematth",
+            "LD": "Goofy",
+            "FX": ""
         },
         {
-            "name": "Test Entry 7",
-            "startTime": 1738100108,
-            "setLength": 5,
+            "name": "Artifaxx",
+            "startTime": 1738461600,
+            "setLength": 60,
             "logoId": 6,
-            "genre": "Whatever",
-            "VJ": "Rotate 180 degrees before playback",
-            "LD": "Eaten",
-            "FX": "Too much explode"
+            "genre": "Hardstyle",
+            "VJ": "nullreff",
+            "LD": "nullreff",
+            "FX": "nullreff"
         },
         {
-            "name": "Test Entry 8",
-            "startTime": 1738100108,
-            "setLength": 5,
+            "name": "Windworks",
+            "startTime": 1738465200,
+            "setLength": 15,
             "logoId": 7,
-            "genre": "Whatever",
-            "VJ": "Last one!",
-            "LD": "Eaten",
-            "FX": "Too much explode"
+            "genre": "Firework Show",
+            "VJ": "Windy",
+            "LD": "Windy",
+            "FX": "Windy"
         },
         {
             "name": "Close",
-            "startTime": 1738100408,
-            "setLength": 5,
+            "startTime": 1738466100,
+            "setLength": 10,
             "logoId": -1,
             "genre": "",
             "VJ": "",
