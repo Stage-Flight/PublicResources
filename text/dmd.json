@@ -7,7 +7,7 @@
     "displayActive": [
         {
             "start": 1738437900,
-            "finish": 1738466760
+            "finish": 1738467300
         }
     ],
     "performers": [
@@ -33,7 +33,7 @@
         },
         {
             "name": "Value Factory",
-            "startTime": 1738447200,
+            "startTime": 1738447817,
             "setLength": 60,
             "logoId": 2,
             "genre": "Drum & Bass",
@@ -43,7 +43,7 @@
         },
         {
             "name": "DJ Goofy",
-            "startTime": 1738450800,
+            "startTime": 1738451400,
             "setLength": 60,
             "logoId": 3,
             "genre": "Festival EDM, Pop & Techno",
@@ -53,7 +53,7 @@
         },
         {
             "name": "DJ Tsrian",
-            "startTime": 1738454400,
+            "startTime": 1738455000,
             "setLength": 60,
             "logoId": 4,
             "genre": "Liquid Drum & Bass",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Ashtalon",
-            "startTime": 1738458000,
+            "startTime": 1738458600,
             "setLength": 60,
             "logoId": 5,
             "genre": "Dubstep & Colour Bass",
@@ -73,7 +73,7 @@
         },
         {
             "name": "Artifaxx",
-            "startTime": 1738461600,
+            "startTime": 1738462200,
             "setLength": 60,
             "logoId": 6,
             "genre": "Hardstyle",
@@ -83,7 +83,7 @@
         },
         {
             "name": "Windworks",
-            "startTime": 1738465200,
+            "startTime": 1738465800,
             "setLength": 15,
             "logoId": 7,
             "genre": "Firework Show",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1738466100,
+            "startTime": 1738466700,
             "setLength": 10,
             "logoId": -1,
             "genre": "",
