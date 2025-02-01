@@ -6,7 +6,7 @@
     },
     "displayActive": [
         {
-            "start": 1738437600,
+            "start": 1738436195,
             "finish": 1738466760
         }
     ],
@@ -17,8 +17,8 @@
             "setLength": 90,
             "logoId": 0,
             "genre": "Tulum & Techno Vibes",
-            "VJ": "Strawbs",
-            "LD": "",
+            "VJ": "",
+            "LD": "Micca",
             "FX": "Micca"
         },
         {
@@ -26,9 +26,9 @@
             "startTime": 1738443600,
             "setLength": 60,
             "logoId": 1,
-            "genre": "Trance & Melodic Trance",
+            "genre": "Trance & Uplifting Trance",
             "VJ": "Micca",
-            "LD": "Micca",
+            "LD": "Micca & Value Factory",
             "FX": "Micca"
         },
         {
@@ -36,9 +36,9 @@
             "startTime": 1738447200,
             "setLength": 60,
             "logoId": 2,
-            "genre": "Drum & Plants",
-            "VJ": "Value Factory",
-            "LD": "",
+            "genre": "Drum & Bass",
+            "VJ": "",
+            "LD": "Goofy",
             "FX": "Micca"
         },
         {
@@ -48,7 +48,7 @@
             "logoId": 3,
             "genre": "Festival EDM, Pop & Techno",
             "VJ": "Value Factory",
-            "LD": "Goofy",
+            "LD": "",
             "FX": "Value Factory"
         },
         {
@@ -57,8 +57,8 @@
             "setLength": 60,
             "logoId": 4,
             "genre": "Liquid Drum & Bass",
-            "VJ": "DJ Tsrian",
-            "LD": "",
+            "VJ": "",
+            "LD": "Micca & Pammematth",
             "FX": "Micca"
         },
         {
@@ -66,10 +66,10 @@
             "startTime": 1738458000,
             "setLength": 60,
             "logoId": 5,
-            "genre": "Dubstep & Colour",
+            "genre": "Dubstep & Colour Bass",
             "VJ": "Pammematth",
             "LD": "Goofy",
-            "FX": ""
+            "FX": "Pammematth"
         },
         {
             "name": "Artifaxx",
@@ -77,7 +77,7 @@
             "setLength": 60,
             "logoId": 6,
             "genre": "Hardstyle",
-            "VJ": "nullreff",
+            "VJ": "nullreff & Pammematth",
             "LD": "nullreff",
             "FX": "nullreff"
         },
