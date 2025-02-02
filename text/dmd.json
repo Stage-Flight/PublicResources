@@ -2,7 +2,7 @@
     "messages": {
         "pre": "Welcome! The event will begin at: ",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Our event is now over, see you next time! Fly safe!"
+        "post": "Our event is now over, see you next time!\nFly safe!"
     },
     "displayActive": [
         {
