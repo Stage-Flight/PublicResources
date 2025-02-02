@@ -53,7 +53,7 @@
         },
         {
             "name": "DJ Tsiran",
-            "startTime": 1738455300,
+            "startTime": 1738455000,
             "setLength": 60,
             "logoId": 4,
             "genre": "Liquid Drum & Bass",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Ashtalon",
-            "startTime": 1738458900,
+            "startTime": 1738458600,
             "setLength": 60,
             "logoId": 5,
             "genre": "Dubstep & Colour Bass",
@@ -73,7 +73,7 @@
         },
         {
             "name": "Artifaxx",
-            "startTime": 1738462500,
+            "startTime": 1738462200,
             "setLength": 60,
             "logoId": 6,
             "genre": "Hardstyle",
@@ -83,7 +83,7 @@
         },
         {
             "name": "Windworks",
-            "startTime": 1738466100,
+            "startTime": 1738466700,
             "setLength": 15,
             "logoId": 7,
             "genre": "Firework Show",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1738467000,
+            "startTime": 1738467300,
             "setLength": 10,
             "logoId": -1,
             "genre": "",
