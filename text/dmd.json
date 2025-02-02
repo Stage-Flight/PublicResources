@@ -7,7 +7,7 @@
     "displayActive": [
         {
             "start": 1738437900,
-            "finish": 1738467600
+            "finish": 1738468200
         }
     ],
     "performers": [
@@ -73,7 +73,7 @@
         },
         {
             "name": "Artifaxx",
-            "startTime": 1738462536,
+            "startTime": 1738463100,
             "setLength": 60,
             "logoId": 6,
             "genre": "Hardstyle",
@@ -83,7 +83,7 @@
         },
         {
             "name": "Windworks",
-            "startTime": 1738466100,
+            "startTime": 1738466700,
             "setLength": 15,
             "logoId": 7,
             "genre": "Firework Show",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1738467000,
+            "startTime": 1738467600,
             "setLength": 10,
             "logoId": -1,
             "genre": "",
