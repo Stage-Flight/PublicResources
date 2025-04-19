@@ -6,94 +6,44 @@
     },
     "displayActive": [
         {
-            "start": 1738437900,
-            "finish": 1738468482
+            "start": 1745033620,
+            "finish": 1745115000
         }
     ],
     "performers": [
         {
-            "name": "Strawbs",
-            "startTime": 1738438200,
-            "setLength": 90,
-            "logoId": 0,
-            "genre": "Tulum & Techno Vibes",
-            "VJ": "Strawbs",
-            "LD": "Micca",
-            "FX": "Micca"
-        },
-        {
-            "name": "Kima & Cynra",
-            "startTime": 1738443600,
+            "name": "Lyzak",
+            "startTime": 1745103600,
             "setLength": 60,
-            "logoId": 1,
-            "genre": "Trance & Uplifting Trance",
-            "VJ": "Micca & Value Factory",
-            "LD": "Micca",
+            "logoId": 0,
+            "genre": "Deep House",
+            "VJ": "Lyzak",
+            "LD": "Talos",
             "FX": "Micca"
         },
         {
-            "name": "Value Factory",
-            "startTime": 1738447817,
+            "name": "Skyjay",
+            "startTime": 1745107200,
             "setLength": 60,
             "logoId": 2,
-            "genre": "Drum & Bass",
-            "VJ": "Value Factory",
-            "LD": "Goofy",
+            "genre": "Funk & Disco",
+            "VJ": "Skyjay",
+            "LD": "Talos",
             "FX": "Micca"
         },
         {
-            "name": "DJ Goofy",
-            "startTime": 1738451700,
+            "name": "DigitalFeathers",
+            "startTime": 1745110800,
             "setLength": 60,
-            "logoId": 3,
-            "genre": "Festival EDM, Pop & Techno",
-            "VJ": "Value Factory",
-            "LD": "DJ Goofy",
-            "FX": "Value Factory"
-        },
-        {
-            "name": "DJ Tsiran",
-            "startTime": 1738455000,
-            "setLength": 60,
-            "logoId": 4,
-            "genre": "Liquid Drum & Bass",
-            "VJ": "DJ Tsiran",
-            "LD": "Micca & Pammematth",
+            "logoId": 1,
+            "genre": "Progressive House & Melodic Techno",
+            "VJ": "DigitalFeathers",
+            "LD": "Talos",
             "FX": "Micca"
-        },
-        {
-            "name": "Ashtalon",
-            "startTime": 1738458936,
-            "setLength": 60,
-            "logoId": 5,
-            "genre": "Dubstep & Colour Bass",
-            "VJ": "Pammematth",
-            "LD": "Goofy",
-            "FX": "Pammematth"
-        },
-        {
-            "name": "Artifaxx",
-            "startTime": 1738463100,
-            "setLength": 60,
-            "logoId": 6,
-            "genre": "Hardstyle",
-            "VJ": "nullreff & Pammematth",
-            "LD": "nullreff",
-            "FX": "nullreff"
-        },
-        {
-            "name": "Windworks",
-            "startTime": 1738466700,
-            "setLength": 15,
-            "logoId": 7,
-            "genre": "Firework Show",
-            "VJ": "Windyote",
-            "LD": "Windyote",
-            "FX": "Windyote"
         },
         {
             "name": "Close",
-            "startTime": 1738467600,
+            "startTime": 1745114400,
             "setLength": 10,
             "logoId": -1,
             "genre": "",
