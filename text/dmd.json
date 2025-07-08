@@ -16,17 +16,17 @@
             "startTime": 1752350400,
             "setLength": 60,
             "logoId": 0,
-            "genre": "Genre?",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "genre": "Genre???",
+            "VJ": "VJ??",
+            "LD": "LD??",
+            "FX": "FX??"
         },
         {
             "name": "Midnight Drift",
             "startTime": 1752354000,
             "setLength": 60,
             "logoId": 1,
-            "genre": "Genre?",
+            "genre": "Genre???",
             "VJ": "",
             "LD": "",
             "FX": ""
@@ -36,7 +36,7 @@
             "startTime": 1752357600,
             "setLength": 60,
             "logoId": 2,
-            "genre": "Genre?",
+            "genre": "Genre???",
             "VJ": "",
             "LD": "",
             "FX": ""
@@ -46,7 +46,7 @@
             "startTime": 1752361200,
             "setLength": 60,
             "logoId": 3,
-            "genre": "Genre?",
+            "genre": "Genre???",
             "VJ": "",
             "LD": "",
             "FX": ""
@@ -56,7 +56,7 @@
             "startTime": 1752364800,
             "setLength": 60,
             "logoId": 4,
-            "genre": "Genre?",
+            "genre": "Genre???",
             "VJ": "",
             "LD": "",
             "FX": ""
@@ -66,17 +66,17 @@
             "startTime": 1752368400,
             "setLength": 60,
             "logoId": 5,
-            "genre": "Genre?",
+            "genre": "Genre???",
             "VJ": "",
             "LD": "",
             "FX": ""
         },
         {
-            "name": "Interview with the Performing Artists",
+            "name": "Interview",
             "startTime": 1752372000,
             "setLength": 60,
             "logoId": 6,
-            "genre": "Chat",
+            "genre": "with the Performing Artists",
             "VJ": "",
             "LD": "",
             "FX": ""
@@ -85,7 +85,7 @@
             "name": "Close",
             "startTime": 1752375600,
             "setLength": 10,
-            "logoId": -1,
+            "logoId": 7,
             "genre": "",
             "VJ": "",
             "LD": "",
