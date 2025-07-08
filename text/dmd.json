@@ -1,51 +1,91 @@
 {
     "messages": {
-        "pre": "Welcome! The event will begin at: ",
+        "pre": "Welcome! i.W.A.I.T 4. T.H.I.S begins at ",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Our event is now over, see you next time!\nFly safe!"
+        "post": "Thank you for visiting! \nFly safe!"
     },
     "displayActive": [
         {
-            "start": 1745101800,
-            "finish": 1745115000
+            "start": 1752001843,
+            "finish": 1752376140
         }
     ],
     "performers": [
         {
-            "name": "Lyzak",
-            "startTime": 1745103600,
+            "name": "Alex Graey",
+            "startTime": 1752350400,
             "setLength": 60,
             "logoId": 0,
-            "genre": "Deep House",
-            "VJ": "Lyzak",
-            "LD": "Talos",
-            "FX": "Micca"
+            "genre": "Genre?",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
         },
         {
-            "name": "Skyjay",
-            "startTime": 1745107200,
-            "setLength": 60,
-            "logoId": 2,
-            "genre": "Funk & Disco",
-            "VJ": "Skyjay",
-            "LD": "Talos",
-            "FX": "Micca"
-        },
-        {
-            "name": "DigitalFeathers",
-            "startTime": 1745110800,
+            "name": "Midnight Drift",
+            "startTime": 1752354000,
             "setLength": 60,
             "logoId": 1,
-            "genre": "Progressive House & Melodic Techno",
-            "VJ": "DigitalFeathers",
-            "LD": "Talos",
-            "FX": "Micca"
+            "genre": "Genre?",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "Corebelle",
+            "startTime": 1752357600,
+            "setLength": 60,
+            "logoId": 2,
+            "genre": "Genre?",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "WHSPRS",
+            "startTime": 1752361200,
+            "setLength": 60,
+            "logoId": 3,
+            "genre": "Genre?",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "NIIC",
+            "startTime": 1752364800,
+            "setLength": 60,
+            "logoId": 4,
+            "genre": "Genre?",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "CK9C",
+            "startTime": 1752368400,
+            "setLength": 60,
+            "logoId": 5,
+            "genre": "Genre?",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "Interview with the Performing Artists",
+            "startTime": 1752372000,
+            "setLength": 60,
+            "logoId": 6,
+            "genre": "Chat",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
         },
         {
             "name": "Close",
-            "startTime": 1745114400,
+            "startTime": 1752375600,
             "setLength": 10,
-            "logoId": 4,
+            "logoId": -1,
             "genre": "",
             "VJ": "",
             "LD": "",
