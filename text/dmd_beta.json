@@ -1,0 +1,96 @@
+{
+    "messages": {
+        "pre": "Welcome! i.W.A.I.T 4. T.H.I.S begins at Saturday ",
+        "inter": "This message is displayed between active days, if we ran on multiple days.",
+        "post": "Thank you for visiting! \nFly safe!",
+        "logo": true
+    },
+    "displayActive": [
+        {
+            "start": 1752350400,
+            "finish": 1752376140
+        }
+    ],
+    "performers": [
+        {
+            "name": "Alex Graey",
+            "startTime": 1752350400,
+            "setLength": 60,
+            "logoId": 0,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "Midnight Drift",
+            "startTime": 1752354000,
+            "setLength": 60,
+            "logoId": 1,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "Corebelle",
+            "startTime": 1752357600,
+            "setLength": 60,
+            "logoId": 2,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "WHSPRS",
+            "startTime": 1752361200,
+            "setLength": 60,
+            "logoId": 3,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "NIIC",
+            "startTime": 1752364800,
+            "setLength": 60,
+            "logoId": 4,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "CK9C",
+            "startTime": 1752368400,
+            "setLength": 60,
+            "logoId": 5,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "Interview",
+            "startTime": 1752372000,
+            "setLength": 60,
+            "logoId": 6,
+            "genre": "with the Performing Artists",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "Close",
+            "startTime": 1752375600,
+            "setLength": 10,
+            "logoId": -1,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        }
+    ]
+}
