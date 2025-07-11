@@ -1,6 +1,6 @@
 {
     "messages": {
-        "pre": "Welcome! The event begins",
+        "pre": "Welcome! The event will open at approximately",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for visiting! \nFly safe!",
         "logo": true,
@@ -9,15 +9,15 @@
     },
     "displayActive": [
         {
-            "start": 1752204011,
+            "start": 1752349500,
             "finish": 1752376140
         }
     ],
     "performers": [
         {
             "name": "Alex Graey",
-            "startTime": 1752270600,
-            "setLength": 5,
+            "startTime": 1752350400,
+            "setLength": 60,
             "logoId": 0,
             "genre": "",
             "VJ": "",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Midnight Drift",
-            "startTime": 1752270900,
+            "startTime": 1752354000,
             "setLength": 60,
             "logoId": 1,
             "genre": "",
