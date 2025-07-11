@@ -3,7 +3,9 @@
         "pre": "Welcome! i.W.A.I.T 4. T.H.I.S begins at Saturday ",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for visiting! \nFly safe!",
-        "logo": true
+        "logo": true,
+        "title": "PERFORMER SCHEDULE",
+        "tagline": "4. T.H.I.S."
     },
     "displayActive": [
         {
