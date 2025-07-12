@@ -1,12 +1,15 @@
 {
     "messages": {
-        "pre": "Welcome! i.W.A.I.T 4. T.H.I.S begins at Saturday ",
+        "pre": "Welcome! The event will open at approximately",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Thank you for visiting! \nFly safe!"
+        "post": "Thank you for visiting! \nFly safe!",
+        "logo": true,
+        "title": "PERFORMER SCHEDULE",
+        "tagline": "4. T.H.I.S."
     },
     "displayActive": [
         {
-            "start": 1752350400,
+            "start": 1752349500,
             "finish": 1752376140
         }
     ],
