@@ -3,9 +3,9 @@
         "pre": "Welcome! The event will open at approximately",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for visiting! \nFly safe!",
-        "logo": true,
+        "logo": false,
         "title": "PERFORMER SCHEDULE",
-        "tagline": "4. T.H.I.S."
+        "tagline": "DANCE TOGETHER, FLY TOGETHER"
     },
     "displayActive": [
         {
