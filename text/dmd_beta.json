@@ -1,94 +1,84 @@
 {
     "messages": {
-        "pre": "Welcome! The event will open at approximately",
+        "pre": "Welcome! The party will start at",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Thank you for visiting! \nFly safe!",
-        "logo": true,
-        "title": "PERFORMER SCHEDULE",
-        "tagline": "4. T.H.I.S."
+        "post": "Time to go flop! \nFly safe!",
+        "logo": false,
+        "title": "DJ SCHEDULE",
+        "tagline": "Nerhri's Birthday Celebration"
     },
     "displayActive": [
         {
-            "start": 1752348600,
-            "finish": 1752376140
+            "start": 1755292740,
+            "finish": 1756008600
         }
     ],
     "performers": [
         {
-            "name": "Alex Graey",
-            "startTime": 1752350400,
+            "name": "Flay",
+            "startTime": 1755986400,
             "setLength": 60,
             "logoId": 0,
-            "genre": "",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "genre": "Tech / Bass House",
+            "VJ": "Dmscootr",
+            "LD": "Kat Food",
+            "FX": "Micca"
         },
         {
-            "name": "Midnight Drift",
-            "startTime": 1752354000,
+            "name": "Wylderness / Lyzak",
+            "startTime": 1755990000,
             "setLength": 60,
             "logoId": 1,
-            "genre": "",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "genre": "Trance",
+            "VJ": "Lyzak",
+            "LD": "Micca",
+            "FX": "Micca"
         },
         {
-            "name": "Corebelle",
-            "startTime": 1752357600,
+            "name": "Ashtalon",
+            "startTime": 1755993600,
             "setLength": 60,
             "logoId": 2,
-            "genre": "",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "genre": "? ? ?",
+            "VJ": "Pammematth",
+            "LD": "Talos",
+            "FX": "Pammematth"
         },
         {
-            "name": "WHSPRS",
-            "startTime": 1752361200,
+            "name": "Cynra",
+            "startTime": 1755997200,
             "setLength": 60,
             "logoId": 3,
-            "genre": "",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "genre": "Uplifting Trance",
+            "VJ": "Micca",
+            "LD": "Micca",
+            "FX": "Micca"
         },
         {
-            "name": "NIIC",
-            "startTime": 1752364800,
+            "name": "Digitalfeathers / Eldarath",
+            "startTime": 1756000800,
             "setLength": 60,
             "logoId": 4,
-            "genre": "",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "genre": "Multigenre",
+            "VJ": "Raeschen",
+            "LD": "Raeschen",
+            "FX": "Sierrlen & Windyote"
         },
         {
-            "name": "CK9C",
-            "startTime": 1752368400,
+            "name": "Beansbyanymeans",
+            "startTime": 1756004400,
             "setLength": 60,
             "logoId": 5,
-            "genre": "",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
-        },
-        {
-            "name": "Interview",
-            "startTime": 1752372000,
-            "setLength": 60,
-            "logoId": 6,
-            "genre": "with the Performing Artists",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "genre": "Bass Music",
+            "VJ": "Pammematth",
+            "LD": "Kat Food",
+            "FX": "Pammematth"
         },
         {
             "name": "Close",
-            "startTime": 1752375600,
+            "startTime": 1756008000,
             "setLength": 10,
-            "logoId": -1,
+            "logoId": 7,
             "genre": "",
             "VJ": "",
             "LD": "",
