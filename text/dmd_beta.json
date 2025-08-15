@@ -3,13 +3,13 @@
         "pre": "Welcome! The party will start at",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Time to go flop! \nFly safe!",
-        "logo": false,
+        "logo": true,
         "title": "DJ SCHEDULE",
         "tagline": "Nerhri's Birthday Celebration"
     },
     "displayActive": [
         {
-            "start": 1755292740,
+            "start": 1755985800,
             "finish": 1756008600
         }
     ],
