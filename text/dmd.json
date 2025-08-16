@@ -1,15 +1,15 @@
 {
     "messages": {
-        "pre": "Welcome! The party will start at",
+        "pre": "Welcome! The party will start",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Time to go flop! \nFly safe!",
-        "logo": false,
+        "logo": true,
         "title": "DJ SCHEDULE",
-        "tagline": "DANCE TOGETHER, FLY TOGETHER"
+        "tagline": "Nerhri's Birthday Celebration"
     },
     "displayActive": [
         {
-            "start": 1755985800,
+            "start": 1755298038,
             "finish": 1756008600
         }
     ],

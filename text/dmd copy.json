@@ -1,101 +1,84 @@
 {
     "messages": {
-        "pre": "Welcome! The event will begin at: ",
+        "pre": "Welcome! The party will start at",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Our event is now over, see you next time!\nFly safe!"
+        "post": "Time to go flop! \nFly safe!",
+        "logo": false,
+        "title": "DJ SCHEDULE",
+        "tagline": "DANCE TOGETHER, FLY TOGETHER"
     },
     "displayActive": [
         {
-            "start": 1738437900,
-            "finish": 1738468482
+            "start": 1755985800,
+            "finish": 1756008600
         }
     ],
     "performers": [
         {
-            "name": "Strawbs",
-            "startTime": 1738438200,
-            "setLength": 90,
+            "name": "Flay",
+            "startTime": 1755986400,
+            "setLength": 60,
             "logoId": 0,
-            "genre": "Tulum & Techno Vibes",
-            "VJ": "Strawbs",
-            "LD": "Micca",
+            "genre": "Tech / Bass House",
+            "VJ": "Dmscootr",
+            "LD": "Kat Food",
             "FX": "Micca"
         },
         {
-            "name": "Kima & Cynra",
-            "startTime": 1738443600,
+            "name": "Wylderness / Lyzak",
+            "startTime": 1755990000,
             "setLength": 60,
             "logoId": 1,
-            "genre": "Trance & Uplifting Trance",
-            "VJ": "Micca & Value Factory",
+            "genre": "Trance",
+            "VJ": "Lyzak",
             "LD": "Micca",
-            "FX": "Micca"
-        },
-        {
-            "name": "Value Factory",
-            "startTime": 1738447817,
-            "setLength": 60,
-            "logoId": 2,
-            "genre": "Drum & Bass",
-            "VJ": "Value Factory",
-            "LD": "Goofy",
-            "FX": "Micca"
-        },
-        {
-            "name": "DJ Goofy",
-            "startTime": 1738451700,
-            "setLength": 60,
-            "logoId": 3,
-            "genre": "Festival EDM, Pop & Techno",
-            "VJ": "Value Factory",
-            "LD": "DJ Goofy",
-            "FX": "Value Factory"
-        },
-        {
-            "name": "DJ Tsiran",
-            "startTime": 1738455000,
-            "setLength": 60,
-            "logoId": 4,
-            "genre": "Liquid Drum & Bass",
-            "VJ": "DJ Tsiran",
-            "LD": "Micca & Pammematth",
             "FX": "Micca"
         },
         {
             "name": "Ashtalon",
-            "startTime": 1738458936,
+            "startTime": 1755993600,
             "setLength": 60,
-            "logoId": 5,
-            "genre": "Dubstep & Colour Bass",
+            "logoId": 2,
+            "genre": "? ? ?",
             "VJ": "Pammematth",
-            "LD": "Goofy",
+            "LD": "Talos",
             "FX": "Pammematth"
         },
         {
-            "name": "Artifaxx",
-            "startTime": 1738463100,
+            "name": "Cynra",
+            "startTime": 1755997200,
             "setLength": 60,
-            "logoId": 6,
-            "genre": "Hardstyle",
-            "VJ": "nullreff & Pammematth",
-            "LD": "nullreff",
-            "FX": "nullreff"
+            "logoId": 3,
+            "genre": "Uplifting Trance",
+            "VJ": "Micca",
+            "LD": "Micca",
+            "FX": "Micca"
         },
         {
-            "name": "Windworks",
-            "startTime": 1738466700,
-            "setLength": 15,
-            "logoId": 7,
-            "genre": "Firework Show",
-            "VJ": "Windyote",
-            "LD": "Windyote",
-            "FX": "Windyote"
+            "name": "Digitalfeathers / Eldarath",
+            "startTime": 1756000800,
+            "setLength": 60,
+            "logoId": 4,
+            "genre": "Multigenre",
+            "VJ": "Raeschen",
+            "LD": "Raeschen",
+            "FX": "Sierrlen & Windyote"
+        },
+        {
+            "name": "Beansbyanymeans",
+            "startTime": 1756004400,
+            "setLength": 60,
+            "logoId": 5,
+            "genre": "Bass Music",
+            "VJ": "Pammematth",
+            "LD": "Kat Food",
+            "FX": "Pammematth"
         },
         {
             "name": "Close",
-            "startTime": 1738467600,
+            "startTime": 1756008000,
             "setLength": 10,
-            "logoId": -1,
+            "logoId": 7,
             "genre": "",
             "VJ": "",
             "LD": "",
