@@ -17,21 +17,21 @@
         {
             "name": "Flay",
             "startTime": 1755986400,
-            "setLength": 60,
+            "setLength": 56,
             "logoId": 0,
             "genre": "Tech / Bass House",
             "VJ": "Dmscootr",
             "LD": "Kat Food",
-            "FX": "Micca"
+            "FX": ""
         },
         {
             "name": "Wylderness",
             "startTime": 1755990000,
-            "setLength": 60,
+            "setLength": 55,
             "logoId": 1,
             "genre": "Trance",
             "VJ": "Lyzak",
-            "LD": "Micca",
+            "LD": "Kat Food",
             "FX": "Micca"
         },
         {
