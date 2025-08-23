@@ -37,7 +37,7 @@
         {
             "name": "Ashtalon",
             "startTime": 1755993600,
-            "setLength": 60,
+            "setLength": 59,
             "logoId": 2,
             "genre": "? ? ?",
             "VJ": "Pammematth",
@@ -50,8 +50,8 @@
             "setLength": 60,
             "logoId": 3,
             "genre": "Uplifting Trance",
-            "VJ": "Micca",
-            "LD": "Micca",
+            "VJ": "",
+            "LD": "",
             "FX": "Micca"
         },
         {
@@ -67,7 +67,7 @@
         {
             "name": "beansbyanymeans",
             "startTime": 1756004400,
-            "setLength": 60,
+            "setLength": 55,
             "logoId": 5,
             "genre": "Bass Music",
             "VJ": "Pammematth",
