@@ -10,7 +10,7 @@
     "displayActive": [
         {
             "start": 1755985800,
-            "finish": 1756009200
+            "finish": 1756009500
         }
     ],
     "performers": [
@@ -46,7 +46,7 @@
         },
         {
             "name": "Cynra",
-            "startTime": 1755997800,
+            "startTime": 1756009200,
             "setLength": 60,
             "logoId": 3,
             "genre": "Uplifting Trance",
@@ -56,7 +56,7 @@
         },
         {
             "name": "Digitalfeathers",
-            "startTime": 1756001400,
+            "startTime": 1756009200,
             "setLength": 60,
             "logoId": 4,
             "genre": "Multigenre",
@@ -66,7 +66,7 @@
         },
         {
             "name": "beansbyanymeans",
-            "startTime": 1756005000,
+            "startTime": 1756005300,
             "setLength": 55,
             "logoId": 5,
             "genre": "Bass Music",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1756008600,
+            "startTime": 1756008900,
             "setLength": 10,
             "logoId": 7,
             "genre": "",
