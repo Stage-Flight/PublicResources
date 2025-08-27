@@ -2,10 +2,10 @@
     "messages": {
         "pre": "Welcome! The party will start",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Time to go flop! \nFly safe!",
-        "logo": true,
+        "post": "See you Sept 13th!\nTill then, fly safe!",
+        "logo": false,
         "title": "DJ SCHEDULE",
-        "tagline": "Nerhri's Birthday Celebration"
+        "tagline": "DANCE TOGETHER, FLY TOGETHER"
     },
     "displayActive": [
         {
