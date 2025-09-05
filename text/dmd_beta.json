@@ -1,82 +1,83 @@
 {
     "messages": {
-        "pre": "Welcome! The party will start",
+        "pre": "Welcome Creatures! The party will start",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Time to go flop! \nFly safe!",
-        "logo": true,
+        "post": "Thank you for swooping by! \nFly safe!",
+        "logo": false,
         "title": "DJ SCHEDULE",
-        "tagline": "Nerhri's Birthday Celebration"
+        "tagline": "DANCE TOGETHER, FLY TOGETHER"
     },
     "displayActive": [
         {
-            "start": 1755298038,
-            "finish": 1756008600
+            "start": 1757104800,
+            "finish": 1757812200
         }
     ],
     "performers": [
         {
-            "name": "Flay",
-            "startTime": 1755986400,
+            "name": "Value Factory",
+            "startTime": 1757790000,
             "setLength": 60,
             "logoId": 0,
-            "genre": "Tech / Bass House",
-            "VJ": "Dmscootr",
-            "LD": "Kat Food",
-            "FX": "Micca"
+            "genre": "LIVE! - Liquid Drum and Bass",
+            "VJ": "Micca",
+            "LD": "",
+            "FX": ""
         },
         {
-            "name": "Wylderness / Lyzak",
-            "startTime": 1755990000,
+            "name": "WarneD1",
+            "startTime": 1757793600,
             "setLength": 60,
             "logoId": 1,
-            "genre": "Trance",
-            "VJ": "Lyzak",
-            "LD": "Micca",
-            "FX": "Micca"
+            "genre": "M.L.E.B.S",
+            "VJ": "JK Sessions",
+            "LD": "Kat Food",
+            "FX": ""
         },
         {
-            "name": "Ashtalon",
-            "startTime": 1755993600,
+            "name": "b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b - Value Factory, Vicerion, Tsop, -Lime, DJ REIGNZ, Sanfear, Adjacent Silhouette, Loprov, Bino, gabby!, Johcaw, LambChops, DJ Goofy, Faux Fire, Dua, Cacklecore, WuffWorks",
+            "startTime": 1757797200,
             "setLength": 60,
             "logoId": 2,
-            "genre": "? ? ?",
-            "VJ": "Pammematth",
-            "LD": "Talos",
-            "FX": "Pammematth"
+            "genre": "Multi Genre",
+            "VJ": "JK Sessions, Pammematth, nullreff, Value Factory, Micca",
+            "LD": "Kat Food, Kuropper, Talos, nullreff, Micca",
+            "FX": "",
+            "longMode": true
         },
         {
-            "name": "Cynra",
-            "startTime": 1755997200,
+            "name": "Goggles",
+            "startTime": 1757800800,
             "setLength": 60,
             "logoId": 3,
-            "genre": "Uplifting Trance",
-            "VJ": "Micca",
-            "LD": "Micca",
-            "FX": "Micca"
+            "genre": "Multi House",
+            "VJ": "JK Sessions",
+            "LD": "Kuropper",
+            "FX": ""
         },
         {
-            "name": "Digitalfeathers / Eldarath",
-            "startTime": 1756000800,
+            "name": "Ash Darkfire",
+            "startTime": 1757804400,
             "setLength": 60,
             "logoId": 4,
-            "genre": "Multigenre",
-            "VJ": "Raeschen",
-            "LD": "Raeschen",
-            "FX": "Sierrlen & Windyote"
+            "genre": "Trance",
+            "VJ": "Pammematth",
+            "LD": "Kuropper",
+            "FX": ""
         },
         {
-            "name": "Beansbyanymeans",
-            "startTime": 1756004400,
+            "name": "Whitty",
+            "startTime": 1757808000,
             "setLength": 60,
             "logoId": 5,
-            "genre": "Bass Music",
-            "VJ": "Pammematth",
+            "genre": "LIVE! - Melodic Bass",
+            "VJ": "Johari",
             "LD": "Kat Food",
-            "FX": "Pammematth"
+            "FX": ""
         },
         {
             "name": "Close",
-            "startTime": 1756008000,
+            "startTime": 1757811600,
             "setLength": 10,
             "logoId": 7,
             "genre": "",
