@@ -4,6 +4,7 @@
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for swooping by! \nFly safe!",
         "logo": false,
+        "hasLomg": true,
         "title": "DJ SCHEDULE",
         "tagline": "DANCE TOGETHER, FLY TOGETHER"
     },
