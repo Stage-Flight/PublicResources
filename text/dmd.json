@@ -1,82 +1,84 @@
 {
     "messages": {
-        "pre": "Welcome! The party will start",
+        "pre": "Welcome Creatures! The party will start",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "See you Sept 13th!\nTill then, fly safe!",
+        "post": "Thank you for swooping by! \nFly safe!",
         "logo": false,
+        "hasLomg": true,
         "title": "DJ SCHEDULE",
         "tagline": "DANCE TOGETHER, FLY TOGETHER"
     },
     "displayActive": [
         {
-            "start": 1755985800,
-            "finish": 1756010100
+            "start": 1757104800,
+            "finish": 1757812200
         }
     ],
     "performers": [
         {
-            "name": "Flay",
-            "startTime": 1755986400,
-            "setLength": 56,
+            "name": "Value Factory",
+            "startTime": 1757790000,
+            "setLength": 60,
             "logoId": 0,
-            "genre": "Tech / Bass House",
-            "VJ": "Dmscootr",
+            "genre": "LIVE! - Liquid Drum and Bass",
+            "VJ": "Micca",
+            "LD": "Leo",
+            "FX": "Micca"
+        },
+        {
+            "name": "WarneD1",
+            "startTime": 1757793600,
+            "setLength": 60,
+            "logoId": 1,
+            "genre": "M.L.E.B.S",
+            "VJ": "JK Sessions",
             "LD": "Kat Food",
             "FX": ""
         },
         {
-            "name": "Wylderness",
-            "startTime": 1755990611,
-            "setLength": 55,
-            "logoId": 1,
-            "genre": "Trance",
-            "VJ": "Lyzak",
-            "LD": "Kat Food",
-            "FX": "Micca"
+            "name": "b17b: Value Factory, Vicerion, Tsop, -Lime, DJ REIGNZ, Sanfear, Adjacent Silhouette, Loprov, Bino, gabby!, Johcaw, LambChops, DJ Goofy, Faux Fire, Dua, Cacklecore, WuffWorks",
+            "startTime": 1757797200,
+            "setLength": 60,
+            "logoId": -1,
+            "genre": "Multi Genre",
+            "VJ": "JK Sessions, Pammematth, nullreff, Value Factory, Micca",
+            "LD": "Kat Food, Kuropper, Talos, nullreff, Micca",
+            "FX": "",
+            "lomgMode": 17
         },
         {
-            "name": "Ashtalon",
-            "startTime": 1755994200,
-            "setLength": 59,
-            "logoId": 2,
-            "genre": "? ? ?",
-            "VJ": "Pammematth",
-            "LD": "Talos",
-            "FX": "Pammematth"
-        },
-        {
-            "name": "Cynra",
-            "startTime": 1755998400,
+            "name": "Goggles",
+            "startTime": 1757800800,
             "setLength": 60,
             "logoId": 3,
-            "genre": "Uplifting Trance",
-            "VJ": "",
-            "LD": "",
-            "FX": "Micca"
+            "genre": "Multi House",
+            "VJ": "JK Sessions",
+            "LD": "Kuropper",
+            "FX": ""
         },
         {
-            "name": "Digitalfeathers",
-            "startTime": 1756002000,
+            "name": "Ash Darkfire",
+            "startTime": 1757804400,
             "setLength": 60,
             "logoId": 4,
-            "genre": "Multigenre",
-            "VJ": "Raeschen",
-            "LD": "Raeschen",
-            "FX": "Sierrlen & Windyote"
+            "genre": "Trance",
+            "VJ": "Pammematth",
+            "LD": "Kuropper",
+            "FX": ""
         },
         {
-            "name": "beansbyanymeans",
-            "startTime": 1756006052,
-            "setLength": 55,
+            "name": "Whitty",
+            "startTime": 1757808000,
+            "setLength": 60,
             "logoId": 5,
-            "genre": "Bass Music",
-            "VJ": "Pammematth",
+            "genre": "LIVE! - Melodic Bass",
+            "VJ": "Johari",
             "LD": "Kat Food",
-            "FX": "Pammematth"
+            "FX": "Micca"
         },
         {
             "name": "Close",
-            "startTime": 1756009500,
+            "startTime": 1757811600,
             "setLength": 10,
             "logoId": 7,
             "genre": "",
