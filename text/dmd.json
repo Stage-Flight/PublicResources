@@ -1,6 +1,6 @@
 {
     "messages": {
-        "pre": "Welcome Creatures! The party will start",
+        "pre": "Welcome Creatures! We take off just after",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for swooping by! \nFly safe!",
         "logo": false,
@@ -10,7 +10,7 @@
     },
     "displayActive": [
         {
-            "start": 1757104800,
+            "start": 1757745900,
             "finish": 1757812200
         }
     ],
