@@ -11,7 +11,7 @@
     "displayActive": [
         {
             "start": 1757789100,
-            "finish": 1757812200
+            "finish": 1757812320
         }
     ],
     "performers": [
@@ -58,7 +58,7 @@
         },
         {
             "name": "Ash Darkfire",
-            "startTime": 1757804400,
+            "startTime": 1757804520,
             "setLength": 60,
             "logoId": 4,
             "genre": "Trance",
@@ -68,7 +68,7 @@
         },
         {
             "name": "Whitty",
-            "startTime": 1757808000,
+            "startTime": 1757808120,
             "setLength": 60,
             "logoId": 5,
             "genre": "LIVE! - Melodic Bass",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1757811600,
+            "startTime": 1757811720,
             "setLength": 10,
             "logoId": 7,
             "genre": "",
