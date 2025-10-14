@@ -26,14 +26,84 @@
             "FX": "???"
         },
         {
-            "name": "Close",
-            "startTime": 1761445200,
-            "setLength": 10,
+            "name": "nullreff",
+            "startTime": 1761418800,
+            "setLength": 55,
+            "logoId": 1,
+            "genre": "Thunder",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
+        },
+        {
+            "name": "b2b: JohCaw, Valant & ka!ju",
+            "startTime": 1761422400,
+            "setLength": 60,
             "logoId": -1,
-            "genre": "",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "genre": "Not Garage, DnB, Trap or Dubstep",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
+        },
+        {
+            "name": "???",
+            "startTime": 1761426000,
+            "setLength": 60,
+            "logoId": 2,
+            "genre": "???",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
+        },
+        {
+            "name": "ARP3GI/O",
+            "startTime": 1761429600,
+            "setLength": 60,
+            "logoId": 3,
+            "genre": "Drum and Bass",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
+        },
+        {
+            "name": "b2b: Dax & Hobnoxus",
+            "startTime": 1761433200,
+            "setLength": 60,
+            "logoId": -1,
+            "genre": "Neurofunk",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
+        },
+        {
+            "name": "Kima",
+            "startTime": 1761436800,
+            "setLength": 60,
+            "logoId": 4,
+            "genre": "Trance",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
+        },
+        {
+            "name": "2N",
+            "startTime": 1761440400,
+            "setLength": 60,
+            "logoId": 4,
+            "genre": "Genre-fluid",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
+        },
+        {
+            "name": "Windworks",
+            "startTime": 1761444000,
+            "setLength": 20,
+            "logoId": 5,
+            "genre": "Fireworks & Drone Show",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         }
     ]
 }
