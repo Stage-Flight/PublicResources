@@ -10,77 +10,26 @@
     },
     "displayActive": [
         {
-            "start": 1757104800,
-            "finish": 1757812200
+            "start": 1760443509,
+            "finish": 1761570309
         }
     ],
     "performers": [
         {
-            "name": "Value Factory",
-            "startTime": 1757790000,
+            "name": "DJ Goofy",
+            "startTime": 1761415200,
             "setLength": 60,
             "logoId": 0,
-            "genre": "LIVE! - Liquid Drum and Bass",
-            "VJ": "Micca",
-            "LD": "Leo",
-            "FX": "Micca"
-        },
-        {
-            "name": "Wylderness",
-            "startTime": 1757793600,
-            "setLength": 55,
-            "logoId": 1,
-            "genre": "Trance",
-            "VJ": "Lyzak",
-            "LD": "Kat Food",
-            "FX": "Micca"
-        },
-        {
-            "name": "b17b: Value Factory, Vicerion, Tsop, -Lime, DJ REIGNZ, Sanfear, Adjacent Silhouette, Loprov, Bino, gabby!, Johcaw, LambChops, DJ Goofy, Faux Fire, Dua, Cacklecore, WuffWorks",
-            "startTime": 1757797200,
-            "setLength": 60,
-            "logoId": -1,
-            "genre": "Multi Genre",
-            "VJ": "JK Sessions, Pammematth, nullreff, Value Factory, Micca",
-            "LD": "Kat Food, Kuropper, Talos, nullreff, Micca",
-            "FX": "",
-            "lomgMode": 17
-        },
-        {
-            "name": "Goggles",
-            "startTime": 1757800800,
-            "setLength": 60,
-            "logoId": 3,
-            "genre": "Multi House",
-            "VJ": "JK Sessions",
-            "LD": "Kuropper",
-            "FX": ""
-        },
-        {
-            "name": "Ash Darkfire",
-            "startTime": 1757804400,
-            "setLength": 60,
-            "logoId": 4,
-            "genre": "Trance",
-            "VJ": "Pammematth",
-            "LD": "Kuropper",
-            "FX": ""
-        },
-        {
-            "name": "Whitty",
-            "startTime": 1757808000,
-            "setLength": 60,
-            "logoId": 5,
-            "genre": "LIVE! - Melodic Bass",
-            "VJ": "Johari",
-            "LD": "Kat Food",
-            "FX": "Micca"
+            "genre": "LIVE! - Open House!",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
             "name": "Close",
-            "startTime": 1757811600,
+            "startTime": 1761445200,
             "setLength": 10,
-            "logoId": 7,
+            "logoId": -1,
             "genre": "",
             "VJ": "",
             "LD": "",
