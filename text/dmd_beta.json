@@ -5,8 +5,11 @@
         "post": "Thank you for swooping by! \nFly safe!",
         "logo": false,
         "hasLomg": true,
+        "lomgTileSize": "0.3333",
+        "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
-        "tagline": "DANCE TOGETHER, FLY TOGETHER"
+        "tagline": "DANCE TOGETHER, FLY TOGETHER",
+        "logoCacheVersion": 0
     },
     "displayActive": [
         {
@@ -43,7 +46,10 @@
             "genre": "Not Garage, DnB, Trap or Dubstep",
             "VJ": "???",
             "LD": "???",
-            "FX": "???"
+            "FX": "???",
+            "lomgDJs": 3,
+            "lomgSpeed": 0.3,
+            "lomgOffset": 0
         },
         {
             "name": "???",
@@ -73,7 +79,10 @@
             "genre": "Neurofunk",
             "VJ": "???",
             "LD": "???",
-            "FX": "???"
+            "FX": "???",
+            "lomgDJs": 2,
+            "lomgSpeed": 0.2,
+            "lomgOffset": 3
         },
         {
             "name": "Kima",
@@ -89,7 +98,7 @@
             "name": "2N",
             "startTime": 1761440400,
             "setLength": 60,
-            "logoId": 4,
+            "logoId": 5,
             "genre": "Genre-fluid",
             "VJ": "???",
             "LD": "???",
@@ -99,11 +108,21 @@
             "name": "Windworks",
             "startTime": 1761444000,
             "setLength": 20,
-            "logoId": 5,
+            "logoId": 6,
             "genre": "Fireworks & Drone Show",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
+        },
+        {
+            "name": "Close",
+            "startTime": 1761445200,
+            "setLength": 10,
+            "logoId": 7,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
         }
     ]
 }
