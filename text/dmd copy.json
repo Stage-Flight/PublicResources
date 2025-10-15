@@ -5,12 +5,15 @@
         "post": "Thank you for swooping by! \nFly safe!",
         "logo": false,
         "hasLomg": true,
+        "lomgTileSize": "0.3333",
+        "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
-        "tagline": "DANCE TOGETHER, FLY TOGETHER"
+        "tagline": "DANCE TOGETHER, FLY TOGETHER",
+        "logoCacheVersion": 1
     },
     "displayActive": [
         {
-            "start": 1760443509,
+            "start": 1760461970,
             "finish": 1761570309
         }
     ],
@@ -44,7 +47,8 @@
             "VJ": "???",
             "LD": "???",
             "FX": "???",
-            "lomgMode": 3,
+            "lomgDJs": 3,
+            "lomgSpeed": 0.3,
             "lomgOffset": 0
         },
         {
@@ -76,7 +80,8 @@
             "VJ": "???",
             "LD": "???",
             "FX": "???",
-            "lomgMode": 2,
+            "lomgDJs": 2,
+            "lomgSpeed": 0.2,
             "lomgOffset": 3
         },
         {
@@ -93,7 +98,7 @@
             "name": "2N",
             "startTime": 1761440400,
             "setLength": 60,
-            "logoId": 4,
+            "logoId": 5,
             "genre": "Genre-fluid",
             "VJ": "???",
             "LD": "???",
@@ -103,7 +108,7 @@
             "name": "Windworks",
             "startTime": 1761444000,
             "setLength": 20,
-            "logoId": 5,
+            "logoId": 6,
             "genre": "Fireworks & Drone Show",
             "VJ": "???",
             "LD": "???",
@@ -113,7 +118,7 @@
             "name": "Close",
             "startTime": 1761445200,
             "setLength": 10,
-            "logoId": -1,
+            "logoId": 7,
             "genre": "",
             "VJ": "",
             "LD": "",

@@ -9,19 +9,19 @@
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
         "tagline": "DANCE TOGETHER, FLY TOGETHER",
-        "logoCacheVersion": 1
+        "logoCacheVersion": 0
     },
     "displayActive": [
         {
-            "start": 1760461970,
-            "finish": 1761570309
+            "start": 1760533680,
+            "finish": 1760536800
         }
     ],
     "performers": [
         {
             "name": "DJ Goofy",
-            "startTime": 1761415200,
-            "setLength": 60,
+            "startTime": 1760533800,
+            "setLength": 5,
             "logoId": 0,
             "genre": "LIVE! - Open House!",
             "VJ": "???",
@@ -30,8 +30,8 @@
         },
         {
             "name": "nullreff",
-            "startTime": 1761418800,
-            "setLength": 55,
+            "startTime": 1760534100,
+            "setLength": 5,
             "logoId": 1,
             "genre": "Thunder",
             "VJ": "???",
@@ -40,8 +40,8 @@
         },
         {
             "name": "b2b: JohCaw, Valant & ka!ju",
-            "startTime": 1761422400,
-            "setLength": 60,
+            "startTime": 1760534400,
+            "setLength": 5,
             "logoId": -1,
             "genre": "Not Garage, DnB, Trap or Dubstep",
             "VJ": "???",
@@ -53,8 +53,8 @@
         },
         {
             "name": "???",
-            "startTime": 1761426000,
-            "setLength": 60,
+            "startTime": 1760534700,
+            "setLength": 5,
             "logoId": 2,
             "genre": "???",
             "VJ": "???",
@@ -63,8 +63,8 @@
         },
         {
             "name": "ARP3GI/O",
-            "startTime": 1761429600,
-            "setLength": 60,
+            "startTime": 1760535000,
+            "setLength": 5,
             "logoId": 3,
             "genre": "Drum and Bass",
             "VJ": "???",
@@ -73,8 +73,8 @@
         },
         {
             "name": "b2b: Dax & Hobnoxus",
-            "startTime": 1761433200,
-            "setLength": 60,
+            "startTime": 1760535300,
+            "setLength": 5,
             "logoId": -1,
             "genre": "Neurofunk",
             "VJ": "???",
@@ -86,8 +86,8 @@
         },
         {
             "name": "Kima",
-            "startTime": 1761436800,
-            "setLength": 60,
+            "startTime": 1760535600,
+            "setLength": 5,
             "logoId": 4,
             "genre": "Trance",
             "VJ": "???",
@@ -96,8 +96,8 @@
         },
         {
             "name": "2N",
-            "startTime": 1761440400,
-            "setLength": 60,
+            "startTime": 1760535900,
+            "setLength": 5,
             "logoId": 5,
             "genre": "Genre-fluid",
             "VJ": "???",
@@ -106,8 +106,8 @@
         },
         {
             "name": "Windworks",
-            "startTime": 1761444000,
-            "setLength": 20,
+            "startTime": 1760536200,
+            "setLength": 5,
             "logoId": 6,
             "genre": "Fireworks & Drone Show",
             "VJ": "???",
@@ -116,8 +116,8 @@
         },
         {
             "name": "Close",
-            "startTime": 1761445200,
-            "setLength": 10,
+            "startTime": 1760536500,
+            "setLength": 5,
             "logoId": 7,
             "genre": "",
             "VJ": "",
