@@ -13,8 +13,8 @@
     },
     "displayActive": [
         {
-            "start": 1760533680,
-            "finish": 1760536800
+            "start": 1760542371,
+            "finish": 1760543400
         }
     ],
     "performers": [
@@ -23,7 +23,7 @@
             "startTime": 1760533800,
             "setLength": 5,
             "logoId": 0,
-            "genre": "LIVE! - Open House!",
+            "genre": "LIVE! - Open House",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
@@ -52,7 +52,7 @@
             "lomgOffset": 0
         },
         {
-            "name": "Reveal!",
+            "name": "???",
             "startTime": 1760534700,
             "setLength": 5,
             "logoId": 2,
@@ -106,8 +106,8 @@
         },
         {
             "name": "Windworks",
-            "startTime": 1760536200,
-            "setLength": 5,
+            "startTime": 1760542500,
+            "setLength": 10,
             "logoId": 6,
             "genre": "Fireworks & Drone Show",
             "VJ": "???",
@@ -116,7 +116,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1760536500,
+            "startTime": 1760543100,
             "setLength": 5,
             "logoId": 7,
             "genre": "",
