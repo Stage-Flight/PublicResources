@@ -9,7 +9,7 @@
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
         "tagline": "DANCE TOGETHER, FLY TOGETHER",
-        "logoCacheVersion": 0
+        "logoCacheVersion": 1
     },
     "displayActive": [
         {
@@ -52,7 +52,7 @@
             "lomgOffset": 0
         },
         {
-            "name": "???",
+            "name": "Reveal!",
             "startTime": 1760534700,
             "setLength": 5,
             "logoId": 2,
