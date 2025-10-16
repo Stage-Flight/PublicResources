@@ -1,84 +1,122 @@
 {
     "messages": {
-        "pre": "Welcome Creatures! We take off just after",
+        "pre": "Welcome Creatures! The party will start",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for swooping by! \nFly safe!",
         "logo": false,
         "hasLomg": true,
-        "title": "DJ SCHEDULE",
-        "tagline": "DANCE TOGETHER, FLY TOGETHER"
+        "lomgTileSize": "0.3333",
+        "lomgLogosPerRow": 3,
+        "title": "TEST DJ SCHEDULE",
+        "tagline": "DANCE TOGETHER, FLY TOGETHER",
+        "logoCacheVersion": 1
     },
     "displayActive": [
         {
-            "start": 1757789100,
-            "finish": 1757812320
+            "start": 1760602547,
+            "finish": 1760652947
         }
     ],
     "performers": [
         {
-            "name": "Value Factory",
-            "startTime": 1757790000,
+            "name": "DJ Goofy",
+            "startTime": 1760612400,
             "setLength": 60,
             "logoId": 0,
-            "genre": "LIVE! - Liquid Drum and Bass",
-            "VJ": "Micca",
-            "LD": "Leo",
-            "FX": "Micca"
+            "genre": "LIVE! - Open House",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "Wylderness",
-            "startTime": 1757793600,
-            "setLength": 55,
+            "name": "nullreff",
+            "startTime": 1760616000,
+            "setLength": 60,
             "logoId": 1,
-            "genre": "Trance",
-            "VJ": "Lyzak",
-            "LD": "Kat Food",
-            "FX": "Micca"
+            "genre": "Thunder",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "b17b: Value Factory, Vicerion, Tsop, -Lime, DJ REIGNZ, Sanfear, Adjacent Silhouette, Loprov, Bino, gabby!, Johcaw, LambChops, DJ Goofy, Faux Fire, Dua, Cacklecore, WuffWorks",
-            "startTime": 1757797200,
+            "name": "b2b: JohCaw, Valant & ka!ju",
+            "startTime": 1760619600,
             "setLength": 60,
             "logoId": -1,
-            "genre": "Multi Genre",
-            "VJ": "JK Sessions, Pammematth, nullreff, Value Factory, Micca",
-            "LD": "Kat Food, Kuropper, Talos, nullreff, Micca",
-            "FX": "",
-            "lomgMode": 17
+            "genre": "Not Garage, DnB, Trap or Dubstep",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???",
+            "lomgDJs": 3,
+            "lomgSpeed": 0.3,
+            "lomgOffset": 0
         },
         {
-            "name": "Goggles",
-            "startTime": 1757800800,
+            "name": "???",
+            "startTime": 1760623200,
+            "setLength": 60,
+            "logoId": 2,
+            "genre": "???",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
+        },
+        {
+            "name": "ARP3GI/O",
+            "startTime": 1760626800,
             "setLength": 60,
             "logoId": 3,
-            "genre": "Multi House",
-            "VJ": "JK Sessions",
-            "LD": "Kuropper",
-            "FX": ""
+            "genre": "Drum and Bass",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "Ash Darkfire",
-            "startTime": 1757804520,
+            "name": "b2b: Dax & Hobnoxus",
+            "startTime": 1760630400,
+            "setLength": 60,
+            "logoId": -1,
+            "genre": "Neurofunk",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???",
+            "lomgDJs": 2,
+            "lomgSpeed": 0.2,
+            "lomgOffset": 3
+        },
+        {
+            "name": "Kima",
+            "startTime": 1760634000,
             "setLength": 60,
             "logoId": 4,
             "genre": "Trance",
-            "VJ": "Pammematth",
-            "LD": "Kuropper",
-            "FX": ""
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "Whitty",
-            "startTime": 1757808120,
+            "name": "2N",
+            "startTime": 1760637600,
             "setLength": 60,
             "logoId": 5,
-            "genre": "LIVE! - Melodic Bass",
-            "VJ": "Johari",
-            "LD": "Kat Food",
-            "FX": "Micca"
+            "genre": "Genre-fluid",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
+        },
+        {
+            "name": "Windworks",
+            "startTime": 1760641200,
+            "setLength": 20,
+            "logoId": 6,
+            "genre": "Fireworks & Drone Show",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
             "name": "Close",
-            "startTime": 1757811720,
+            "startTime": 1760642400,
             "setLength": 10,
             "logoId": 7,
             "genre": "",
