@@ -7,20 +7,20 @@
         "hasLomg": true,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
-        "title": "TEST DJ SCHEDULE",
+        "title": "DJ SCHEDULE",
         "tagline": "DANCE TOGETHER, FLY TOGETHER",
         "logoCacheVersion": 1
     },
     "displayActive": [
         {
-            "start": 1760602547,
-            "finish": 1760652947
+            "start": 1761413400,
+            "finish": 1761445800
         }
     ],
     "performers": [
         {
             "name": "DJ Goofy",
-            "startTime": 1760612400,
+            "startTime": 1761415200,
             "setLength": 60,
             "logoId": 0,
             "genre": "LIVE! - Open House",
@@ -30,22 +30,22 @@
         },
         {
             "name": "nullreff",
-            "startTime": 1760616000,
+            "startTime": 1761418800,
             "setLength": 60,
             "logoId": 1,
             "genre": "Thunder",
-            "VJ": "???",
-            "LD": "???",
+            "VJ": "nullreff",
+            "LD": "nullreff",
             "FX": "???"
         },
         {
             "name": "b2b: JohCaw, Valant & ka!ju",
-            "startTime": 1760619600,
+            "startTime": 1761422400,
             "setLength": 60,
             "logoId": -1,
             "genre": "Not Garage, DnB, Trap or Dubstep",
             "VJ": "???",
-            "LD": "???",
+            "LD": "Kat Food",
             "FX": "???",
             "lomgDJs": 3,
             "lomgSpeed": 0.3,
@@ -53,7 +53,7 @@
         },
         {
             "name": "???",
-            "startTime": 1760623200,
+            "startTime": 1761426000,
             "setLength": 60,
             "logoId": 2,
             "genre": "???",
@@ -62,23 +62,23 @@
             "FX": "???"
         },
         {
-            "name": "ARP3GI/O",
-            "startTime": 1760626800,
+            "name": "ARP3GGI/O",
+            "startTime": 1761429600,
             "setLength": 60,
             "logoId": 3,
             "genre": "Drum and Bass",
-            "VJ": "???",
-            "LD": "???",
+            "VJ": "JKSessions & Micca",
+            "LD": "Goofy & Micca",
             "FX": "???"
         },
         {
             "name": "b2b: Dax & Hobnoxus",
-            "startTime": 1760630400,
+            "startTime": 1761433200,
             "setLength": 60,
             "logoId": -1,
             "genre": "Neurofunk",
-            "VJ": "???",
-            "LD": "???",
+            "VJ": "Captivated",
+            "LD": "Kuropper",
             "FX": "???",
             "lomgDJs": 2,
             "lomgSpeed": 0.2,
@@ -86,37 +86,37 @@
         },
         {
             "name": "Kima",
-            "startTime": 1760634000,
+            "startTime": 1761436800,
             "setLength": 60,
             "logoId": 4,
             "genre": "Trance",
             "VJ": "???",
-            "LD": "???",
+            "LD": "Raeschen",
             "FX": "???"
         },
         {
             "name": "2N",
-            "startTime": 1760637600,
+            "startTime": 1761440400,
             "setLength": 60,
             "logoId": 5,
             "genre": "Genre-fluid",
-            "VJ": "???",
-            "LD": "???",
+            "VJ": "Pammematth",
+            "LD": "Leo",
             "FX": "???"
         },
         {
             "name": "Windworks",
-            "startTime": 1760641200,
+            "startTime": 1761444000,
             "setLength": 20,
             "logoId": 6,
             "genre": "Fireworks & Drone Show",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "Windyote",
+            "LD": "Windyote",
+            "FX": "Happyrobot33 & Rowan"
         },
         {
             "name": "Close",
-            "startTime": 1760642400,
+            "startTime": 1761445200,
             "setLength": 10,
             "logoId": 7,
             "genre": "",
