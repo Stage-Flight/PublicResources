@@ -34,9 +34,9 @@
             "setLength": 60,
             "logoId": 1,
             "genre": "Thunder",
-            "VJ": "nullreff",
-            "LD": "nullreff",
-            "FX": "Happyrobot33, Micca, Windyote, Pammematth, Rowan, Kat Food & Orca"
+            "VJ": "Kat Food & nullreff",
+            "LD": "nullreff & ValueFactory",
+            "FX": "Happyrobot33, Micca, Windyote, Pammematth, Rowan, Icyvarix & Torvid"
         },
         {
             "name": "b2b: JohCaw, Valant & ka!ju",
@@ -110,9 +110,9 @@
             "setLength": 20,
             "logoId": 6,
             "genre": "Fireworks & Drone Show",
-            "VJ": "",
-            "LD": "",
-            "FX": "Windyote, Happyrobot33 & Rowan"
+            "VJ": "ValueFactory",
+            "LD": "Windyote",
+            "FX": "Happyrobot33, Rowan & Talos"
         },
         {
             "name": "Close",
