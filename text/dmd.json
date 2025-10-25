@@ -14,7 +14,7 @@
     "displayActive": [
         {
             "start": 1761413400,
-            "finish": 1761445800
+            "finish": 1761446100
         }
     ],
     "performers": [
@@ -73,7 +73,7 @@
         },
         {
             "name": "b2b: Dax & Hobnoxus",
-            "startTime": 1761433200,
+            "startTime": 1761433490,
             "setLength": 60,
             "logoId": -1,
             "genre": "Neurofunk",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Kima",
-            "startTime": 1761436800,
+            "startTime": 1761437090,
             "setLength": 60,
             "logoId": 4,
             "genre": "Trance",
@@ -96,7 +96,7 @@
         },
         {
             "name": "2N",
-            "startTime": 1761440400,
+            "startTime": 1761440690,
             "setLength": 60,
             "logoId": 5,
             "genre": "Genre-fluid",
@@ -106,7 +106,7 @@
         },
         {
             "name": "Windworks",
-            "startTime": 1761444000,
+            "startTime": 1761444290,
             "setLength": 20,
             "logoId": 6,
             "genre": "Fireworks & Drone Show",
@@ -116,7 +116,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1761445200,
+            "startTime": 1761445490,
             "setLength": 10,
             "logoId": 7,
             "genre": "",
