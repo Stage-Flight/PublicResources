@@ -24,9 +24,9 @@
             "setLength": 60,
             "logoId": 0,
             "genre": "LIVE! - Open House",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "Pammematth",
+            "LD": "Axl & Kat Food",
+            "FX": "Micca"
         },
         {
             "name": "nullreff",
@@ -36,7 +36,7 @@
             "genre": "Thunder",
             "VJ": "nullreff",
             "LD": "nullreff",
-            "FX": "???"
+            "FX": "Happyrobot33, Micca, Windyote, Pammematth, Rowan, Kat Food & Orca"
         },
         {
             "name": "b2b: JohCaw, Valant & ka!ju",
@@ -44,9 +44,9 @@
             "setLength": 60,
             "logoId": -1,
             "genre": "Not Garage, DnB, Trap or Dubstep",
-            "VJ": "???",
+            "VJ": "ValueFactory",
             "LD": "Kat Food",
-            "FX": "???",
+            "FX": "",
             "lomgDJs": 3,
             "lomgSpeed": 0.3,
             "lomgOffset": 0
@@ -57,9 +57,9 @@
             "setLength": 60,
             "logoId": 2,
             "genre": "???",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "",
+            "LD": "",
+            "FX": ""
         },
         {
             "name": "ARP3GGI/O",
@@ -67,9 +67,9 @@
             "setLength": 60,
             "logoId": 3,
             "genre": "Drum and Bass",
-            "VJ": "JKSessions & Micca",
-            "LD": "Goofy & Micca",
-            "FX": "???"
+            "VJ": "Micca",
+            "LD": "Micca",
+            "FX": ""
         },
         {
             "name": "b2b: Dax & Hobnoxus",
@@ -79,7 +79,7 @@
             "genre": "Neurofunk",
             "VJ": "Captivated",
             "LD": "Kuropper",
-            "FX": "???",
+            "FX": "",
             "lomgDJs": 2,
             "lomgSpeed": 0.2,
             "lomgOffset": 3
@@ -90,9 +90,9 @@
             "setLength": 60,
             "logoId": 4,
             "genre": "Trance",
-            "VJ": "???",
+            "VJ": "CyanLyan & Dmscootr",
             "LD": "Raeschen",
-            "FX": "???"
+            "FX": ""
         },
         {
             "name": "2N",
@@ -101,8 +101,8 @@
             "logoId": 5,
             "genre": "Genre-fluid",
             "VJ": "Pammematth",
-            "LD": "Leo",
-            "FX": "???"
+            "LD": "Kat Food",
+            "FX": ""
         },
         {
             "name": "Windworks",
@@ -110,9 +110,9 @@
             "setLength": 20,
             "logoId": 6,
             "genre": "Fireworks & Drone Show",
-            "VJ": "Windyote",
-            "LD": "Windyote",
-            "FX": "Happyrobot33 & Rowan"
+            "VJ": "",
+            "LD": "",
+            "FX": "Windyote, Happyrobot33 & Rowan"
         },
         {
             "name": "Close",

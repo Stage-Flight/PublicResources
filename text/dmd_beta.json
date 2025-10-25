@@ -13,111 +13,111 @@
     },
     "displayActive": [
         {
-            "start": 1760542371,
-            "finish": 1760543400
+            "start": 1761397673,
+            "finish": 1761445800
         }
     ],
     "performers": [
         {
             "name": "DJ Goofy",
-            "startTime": 1760533800,
-            "setLength": 5,
+            "startTime": 1761415200,
+            "setLength": 60,
             "logoId": 0,
             "genre": "LIVE! - Open House",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "Pammematth",
+            "LD": "Axl & Kat Food",
+            "FX": "Micca"
         },
         {
             "name": "nullreff",
-            "startTime": 1760534100,
-            "setLength": 5,
+            "startTime": 1761418800,
+            "setLength": 60,
             "logoId": 1,
             "genre": "Thunder",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "nullreff",
+            "LD": "nullreff",
+            "FX": "Happyrobot33, Micca, Windyote, Pammematth, Rowan, Kat Food & Orca"
         },
         {
             "name": "b2b: JohCaw, Valant & ka!ju",
-            "startTime": 1760534400,
-            "setLength": 5,
+            "startTime": 1761422400,
+            "setLength": 60,
             "logoId": -1,
             "genre": "Not Garage, DnB, Trap or Dubstep",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???",
+            "VJ": "ValueFactory",
+            "LD": "Kat Food",
+            "FX": "",
             "lomgDJs": 3,
             "lomgSpeed": 0.3,
             "lomgOffset": 0
         },
         {
             "name": "???",
-            "startTime": 1760534700,
-            "setLength": 5,
+            "startTime": 1761426000,
+            "setLength": 60,
             "logoId": 2,
             "genre": "???",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "",
+            "LD": "",
+            "FX": ""
         },
         {
-            "name": "ARP3GI/O",
-            "startTime": 1760535000,
-            "setLength": 5,
+            "name": "ARP3GGI/O",
+            "startTime": 1761429600,
+            "setLength": 60,
             "logoId": 3,
             "genre": "Drum and Bass",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "Micca",
+            "LD": "Micca",
+            "FX": ""
         },
         {
             "name": "b2b: Dax & Hobnoxus",
-            "startTime": 1760535300,
-            "setLength": 5,
+            "startTime": 1761433200,
+            "setLength": 60,
             "logoId": -1,
             "genre": "Neurofunk",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???",
+            "VJ": "Captivated",
+            "LD": "Kuropper",
+            "FX": "",
             "lomgDJs": 2,
             "lomgSpeed": 0.2,
             "lomgOffset": 3
         },
         {
             "name": "Kima",
-            "startTime": 1760535600,
-            "setLength": 5,
+            "startTime": 1761436800,
+            "setLength": 60,
             "logoId": 4,
             "genre": "Trance",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "CyanLyan & Dmscootr",
+            "LD": "Raeschen",
+            "FX": ""
         },
         {
             "name": "2N",
-            "startTime": 1760535900,
-            "setLength": 5,
+            "startTime": 1761440400,
+            "setLength": 60,
             "logoId": 5,
             "genre": "Genre-fluid",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "Pammematth",
+            "LD": "Kat Food",
+            "FX": ""
         },
         {
             "name": "Windworks",
-            "startTime": 1760542500,
-            "setLength": 10,
+            "startTime": 1761444000,
+            "setLength": 20,
             "logoId": 6,
             "genre": "Fireworks & Drone Show",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "VJ": "",
+            "LD": "",
+            "FX": "Windyote, Happyrobot33 & Rowan"
         },
         {
             "name": "Close",
-            "startTime": 1760543100,
-            "setLength": 5,
+            "startTime": 1761445200,
+            "setLength": 10,
             "logoId": 7,
             "genre": "",
             "VJ": "",
