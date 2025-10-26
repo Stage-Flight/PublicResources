@@ -14,7 +14,7 @@
     "displayActive": [
         {
             "start": 1761413400,
-            "finish": 1761446580
+            "finish": 1761445853
         }
     ],
     "performers": [
@@ -106,7 +106,7 @@
         },
         {
             "name": "Windworks",
-            "startTime": 1761444800,
+            "startTime": 1761444653,
             "setLength": 20,
             "logoId": 6,
             "genre": "Fireworks & Drone Show",
@@ -116,7 +116,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1761446000,
+            "startTime": 1761445853,
             "setLength": 10,
             "logoId": 7,
             "genre": "",
