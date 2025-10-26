@@ -4,7 +4,7 @@
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for swooping by! \nFly safe!",
         "logo": false,
-        "hasLomg": true,
+        "hasLomg": false,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
